@@ -1,0 +1,12 @@
+{
+  "name": "repo-story",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Modern short video social media platform",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
